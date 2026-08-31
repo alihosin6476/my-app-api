@@ -1,6 +1,9 @@
 {
+  "app_version": 1,
+  "update_url": "https://example.com/download-app.apk",
+
   "hero_card": {
-    "title": "المولد النبوي uuuا الشريف",
+    "title": "المولد النبوي الشريف",
     "desc": "أغلب البلدان ستحتفل غداً بالمولد النبوي الشريف، أعاده الله علينا وعليكم باليمن والبركات والسلام."
   },
   "trending_card": {
