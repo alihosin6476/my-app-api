@@ -1,11 +1,11 @@
 {
-  "app_version": 11,
+  "app_version": 1,
   "update_url": "https://youtu.be/BCq8Irt1TY0?si=YaMb632mLJuDJHRJ",
 
-  "pro_codes": ["", "775775775"],
+  "pro_codes": ["", ""],
 
   "hero_card": {
-    "title": "المولد yyyyyu8877 ",
+    "title": "المولد  ",
     "desc": "أغلب البلدان ستحتفل غداً بالمولد النبوي الشريف، أعاده الله علينا وعليكم باليمن والبركات والسلام."
   },
   "trending_card": {
@@ -18,7 +18,7 @@
       "date": "2026/8/10م",
       "desc": "تطورات متسارعة في عالم التقنية حيث أصبحت النماذج اللغوية قادرة على كتابة الأكواد البرمجية بالكامل.",
       "tag": "تقنية_الذكاء_الاصطناعي",
-      "image_url": "https://raw.githubusercontent.com/alihosin6476/my-app-api/main/2027.jpg"
+      "image_url": ""
     },
     {
       "title": "تصميم الواجهات UI/UX",
