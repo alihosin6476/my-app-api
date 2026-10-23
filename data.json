@@ -6,12 +6,12 @@
   "pro_codes": ["11", "21"],
 
   "popup": {
-  "title": "أهلاً بك في ترندوشة",
-  "desc": "تابع أحدث ترندات التقنية والذكاء الاصطناعي أولاً بأول",
-  "image_url": "https://raw.githubusercontent.com/alihosin6476/my-app-api/main/2026.jpg",
-  "btn_text": "زيارة المتجر",
-  "btn_url": "https://youtu.be/BCq8Irt1TY0?si=YaMb632mLJuDJHRJ"
-},
+    "title": "أهلاً بك في ترندوشة",
+    "desc": "تابع أحدث ترندات التقنية والذكاء الاصطناعي أولاً بأول",
+    "image_url": "https://raw.githubusercontent.com/alihosin6476/my-app-api/main/2026.jpg",
+    "btn_text": "زيارة المتجر",
+    "btn_url": "https://youtu.be/5QTKsYBd4NA?si=1laBAX88oPa3z2Ap"
+  },
 
   "hero_card": {
     "title": "المولد",
